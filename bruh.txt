@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>2nd page</title>
+</head>
+<body>
+<h1><font color="white">this is the 2nd page of this website</h1>
+<p> PEOPLE WHO EDITIED THIS WEBSITE:SILO AND 5P3C9ALX(SPECIALx)</p>
+<p>and this is the last page soo click on the link</p>
+<a href="https://www.youtube.com/watch?v=oHg5SJYRHA0"><h4>this is a link to a trusted website to check if your account if safe or not:) </a>
+<style>
+body {
+  background-image: url('https://cdn.pixabay.com/photo/2017/04/03/04/48/riyadh-2197496_960_720.jpg');
+}
+</style>
+<br>
+</body>
+</html>
+

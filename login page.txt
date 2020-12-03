@@ -1,0 +1,45 @@
+<html>
+<head>
+           <title>Log_in page</title>
+</head>
+
+
+
+
+    
+<body>
+<style>
+body {
+  background-image: url('https://cdn.pixabay.com/photo/2017/04/03/04/48/riyadh-2197496_960_720.jpg');
+}
+</style>
+    <h2><font color="green">Login Form</h2> 
+    <!--Step 1 : Adding HTML-->
+    <form action="main.html"> 
+        <div class="imgcontainer"> 
+
+        </div> 
+
+        <div class="container"> 
+            
+            <input type="text" placeholder="Enter Username" name="uname" required> 
+
+             
+            <input type="password" placeholder="Enter Password" name="psw" required> 
+
+            <button type="submit">Login</button> 
+            <input type="checkbox" checked="checked"> Remember me 
+        </div> 
+
+
+        </div> 
+    </form>
+
+
+</body>
+</html>	
+ 
+<p><font  color="white">dont have a account sign in to make an account</p>
+<p>well there is no link for this website for you to make an account so ya this website is pretty much broken</p>
+<p>this webssite is not really hacked its jus for the looks lol:)</p>
+<p>NOTE! YOU DO NOT HAVE TO MAKE AN ACCOUNT TO LOGIN JUST PUT ANYTHING IN TO THE TEXT BOX AND IT WILL TAKE YOU TO THE MAIN PAGE!</p>
